@@ -1,3 +1,11 @@
+# RUN
+"""
+pip install -r requirements.txt
+"""
+"""
+python stable-fluids/example.py
+"""
+
 # Py Stable Fluids
 A minimal Stable Fluids inspired fluid solver with Python and NumPy.
 ### Results
